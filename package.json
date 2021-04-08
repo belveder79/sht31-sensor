@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skylarstein/bme280-sensor.git"
+    "url": "git+https://github.com/belveder79/sht31-sensor.git"
   },
   "keywords": [
     "SHT31",
@@ -23,9 +23,9 @@
   "author": "Clemens Arth",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skylarstein/bme280-sensor/issues"
+    "url": "https://github.com/belveder79/sht31-sensor/issues"
   },
-  "homepage": "https://github.com/skylarstein/bme280-sensor#readme",
+  "homepage": "https://github.com/belveder79/sht31-sensor#readme",
   "dependencies": {
     "i2c-bus": "^5.1.0"
   },
