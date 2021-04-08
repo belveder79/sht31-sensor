@@ -1,0 +1,36 @@
+{
+  "name": "sht31-sensor",
+  "version": "0.0.1",
+  "description": "A Node.js I2C module for the SHT31 Humidity and Temperature Sensor.",
+  "main": "SHT31.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylarstein/bme280-sensor.git"
+  },
+  "keywords": [
+    "SHT31",
+    "Humidity",
+    "Temperature",
+    "Sensor",
+    "Adafruit",
+    "Raspberry",
+    "Pi",
+    "Beaglebone"
+  ],
+  "author": "Clemens Arth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skylarstein/bme280-sensor/issues"
+  },
+  "homepage": "https://github.com/skylarstein/bme280-sensor#readme",
+  "dependencies": {
+    "i2c-bus": "^5.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
